@@ -2,7 +2,7 @@
 
 ## Data
 
-### Sentinel2-export
+### Sentinel-2-export
 
 Gathered data from Earth Engine about the test field
 
