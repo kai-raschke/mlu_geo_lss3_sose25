@@ -56,3 +56,13 @@ Calculation of standard error
 ### Timeline (interpoliert, mit UAV 28.4.), Analysen & Grafiken_Wasser_rel.xlsx
 
 Time series, descriptive statistical analysis, diagrams
+
+### esu_shapes.shp
+
+Polygon shapefile used for UAV data
+
+###
+
+Point shapefile used for Sentinel-2 data
+
+
