@@ -25,3 +25,6 @@ processing of preprocessed Sentinel-1 Data: calculation of indices, interpolatio
 
 performes normality test, correlation test and plotting of processed Sentinel-1 Data
 
+### Chlor_NDVI_final.R
+
+R script for processing and analysing field data (chlorophyll) and NDVI time series from Sentinel-2 and UAV data. Contains data cleansing, interpolation, correlation tests and visualisations (scatterplots, line diagrams). Results are exported as CSV and PNG.
